@@ -5,8 +5,8 @@ layout: post_bare
 # 基本信息
 
 __方浩__ \| 1990.10 \| PHP 开发 \| 北京 <br />
-Email: [fanghao90s@gmail.com](mailto:fanghao90s@gmail.com) <br />
-博客: <https://unifreak.github.io>
+Email: [arrighetti.mattia@gmail.com](mailto:arrighetti.mattia@gmail.com) <br />
+博客: <https://inexistent3rdchimera.github.io/>
 
 # 工作经历
 
