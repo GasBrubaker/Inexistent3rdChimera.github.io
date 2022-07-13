@@ -21,12 +21,12 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: "https://inexistent3rdchimera.github.io"
-name: unifreak # Required: will be displayed on every page's header
-title: UniFreak's blog # Required: site's default title
+name: Inexistent3rdChimera # Required: will be displayed on every page's header
+title: Inexistent3rdChimera # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - NEVER
   - OR NOW
-description: "Fanghao's personal blog, on IT tech, personal thoughts and other things..." # Required
+description: "Isperia's personal blog, on TTRPGs, personal thoughts and other things..." # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment
